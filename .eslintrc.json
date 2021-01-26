@@ -5,7 +5,7 @@
     "jest": true,
     "node": true
   },
-  "setings": {
+  "settings": {
     "react": {
       "version": "detect"
     }
