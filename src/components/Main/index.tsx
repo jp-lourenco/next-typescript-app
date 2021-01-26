@@ -1,7 +1,13 @@
-const Main = () => (
-  <main>
-    <h1>React</h1>
-  </main>
-)
+import * as S from './styles';
 
-export default Main
+const Main = () => (
+  <S.Wrapper>
+    <S.Logo src="/img/vercel.svg" alt="Logo da marca Vercel." />
+    <S.Title>React Styled</S.Title>
+    <S.Description>
+      TypeScript, ReactJS, NextJS e Styled Components
+    </S.Description>
+  </S.Wrapper>
+);
+
+export default Main;

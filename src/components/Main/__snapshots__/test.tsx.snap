@@ -1,9 +1,23 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
-<main>
-  <h1>
-    React
+<main
+  class="styles__Wrapper-yw2wfe-0 iuwknL"
+>
+  <img
+    alt="Logo da marca Vercel."
+    class="styles__Logo-yw2wfe-1 eZGvik"
+    src="/img/vercel.svg"
+  />
+  <h1
+    class="styles__Title-yw2wfe-2 gdkATW"
+  >
+    React Styled
   </h1>
+  <h2
+    class="styles__Description-yw2wfe-3 iJRDxh"
+  >
+    TypeScript, ReactJS, NextJS e Styled Components
+  </h2>
 </main>
 `;
